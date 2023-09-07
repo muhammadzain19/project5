@@ -1,5 +1,5 @@
 import "../app/globals.css"
-import Footer from "../components/footer.js"
+import Footer from "../components/footer"
 import Image from 'next/image';
 export default function Home() {
   return (
