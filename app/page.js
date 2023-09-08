@@ -201,8 +201,8 @@ export default function Home() {
               <div className="md:pl-10 lg:pl-16 xl:pl-28 2xl:pl-32">
                 <p className="text-white font-bold text-[24px] leading-[26px] pt-6 sm:text-[28px] sm:leading-[30px] md:leading-[30px] md:text-[28px] md:max-w-[300px] md:font-semibold md:pt-[82px] lg:pt-[109px] lg:text-[37px] lg:max-w-[430px] lg:leading-[39px] xl:pt-[134px] xl:text-[47px] xl:leading-[49px] xl:max-w-[500px] 2xl:text-[52px] 2xl:leading-[52px] 2xl:max-w-[600px]">Energy of a start-up combined with 30 years of experience.</p>
                 <div className="pt-4 sm:pt-6 md:pb-[82px] lg:pt-8 xl:pt-10 lg:pb-[109px] xl:pb-[133px]">
-                  <div className="bg-white rounded-full p-2 pl-3 pr-3 max-w-[135px] sm:max-w-[180px] sm:flex sm:justify-center sm:p-3 sm:pl-5 sm:m-auto md:justify-start md:m-0 md:p-3 md:pl-5 md:max-w-[150px] lg:p-4 lg:pl-7 lg:max-w-[180px] xl:max-w-[210px] xl:p-4 xl:pl-8">
-                    <p className="text-[#F58A07] text-[12px] font-semibold sm:text-[14px]  md:text-[12px] lg:text-[14px] xl:text-[16px] 2xl:font-bold cursor-pointer">See Job Vacancies</p>
+                  <div className="cursor-pointer bg-white rounded-full p-2 pl-3 pr-3 max-w-[135px] sm:max-w-[180px] sm:flex sm:justify-center sm:p-3 sm:pl-5 sm:m-auto md:justify-start md:m-0 md:p-3 md:pl-5 md:max-w-[150px] lg:p-4 lg:pl-7 lg:max-w-[180px] xl:max-w-[210px] xl:p-4 xl:pl-8">
+                    <p className="text-[#F58A07] text-[12px] font-semibold sm:text-[14px]  md:text-[12px] lg:text-[14px] xl:text-[16px] 2xl:font-bold">See Job Vacancies</p>
                   </div>
                 </div>
               </div>
