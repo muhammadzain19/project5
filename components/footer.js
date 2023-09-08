@@ -1,5 +1,4 @@
 import React from 'react'
-
 export default function Home() {
     return (
         <div className='bg-[#063255]'>
@@ -50,7 +49,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div className='pt-2 sm:pt-4'>
-                            <div className='bg-orange-400 p-3 rounded-full pl-8 max-w-[140px] sm:pl-12 sm:max-w-[170px] sm:m-auto lg:m-0 xl:pl-7 xl:max-w-[140px] 2xl:p-4 2xl:max-w-[170px] 2xl:pl-10'>
+                            <div className='bg-[#F58A07] p-3 rounded-full pl-8 max-w-[140px] sm:pl-12 sm:max-w-[170px] sm:m-auto lg:m-0 xl:pl-7 xl:max-w-[140px] 2xl:p-4 2xl:max-w-[170px] 2xl:pl-10'>
                                 <p className='text-white font-semibold 2xl:text-[18px] cursor-pointer'>Subscribe</p>
                             </div>
                         </div>
