@@ -3,7 +3,7 @@ import React from 'react'
 export default function Home() {
     return (
         <div className='bg-[#063255]'>
-            <div className='max-w-[270px] m-auto sm:max-w-[550px] md:max-w-[700px] lg:max-w-[934px] lg:grid lg:grid-cols-3 lg:pt-8 xl:max-w-[1190px] xl:pt-12 2xl:max-w-[1446px] 2xl:pt-16'>
+            <div className='max-w-[270px] m-auto sm:max-w-[550px] md:max-w-[700px] lg:max-w-[934px] lg:grid lg:grid-cols-3 lg:pt-8 xl:max-w-[1190px] xl:pt-20 2xl:max-w-[1446px]'>
                 <div className='pt-8 sm:pt-12 lg:pt-0'>
                     <div className='w-[100px] sm:w-[130px] lg:w-[100px] 2xl:w-[130px]'>
                         <img className='w-full' src='images/white-finswheet.png' />
@@ -56,7 +56,7 @@ export default function Home() {
                         </div>
                     </div>
             </div>
-            <div className='text-white max-w-[270px] sm:max-w-[550px] m-auto pt-10 pb-8 md:pt-14 lg:max-w-[934px] lg:flex lg:justify-between xl:max-w-[1190px] xl:pt-20 2xl:max-w-[1446px] 2xl:pt-24 2xl:pb-14'>
+            <div className='text-white max-w-[270px] sm:max-w-[550px] m-auto pt-10 pb-8 md:pt-14 lg:max-w-[934px] lg:flex lg:justify-between xl:max-w-[1190px] xl:pt-20 2xl:max-w-[1446px] 2xl:pt-24 xl:pb-20'>
                 <p className='text-center lg:text-start sm:text-[20px] md:text-[24px] lg:text-[16px] 2xl:text-[18px]'>© All rights reserved – Finsweet</p>
                 <div className=' cursor-pointer flex gap-5 pt-2 text-[12px] justify-center sm:text-[14px] md:text-[16px] lg:justify-start lg:pt-0 lg:text-[16px] xl:gap-10 2xl:text-[16px]'>
                     <p>Privacy Policy</p>

@@ -17,21 +17,21 @@ export default function Home() {
             <p>Contact us</p>
           </div>
           <div>
-            <p className='font-bold text-orange-400 bg-orange-50 p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>Clone Project</p>
+            <p className='font-bold text-[#F58A07] bg-[#F58A071A] p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>Clone Project</p>
           </div>
         </div>
       </header>
       <div className='bg-image bg-[#DCEAF5] pb-4 sm:pb-0'>
         <div className="flex flex-col-reverse pt-5 max-w-[270px] m-auto sm:flex-row sm:max-w-[550px] sm:pt-10 md:max-w-[700px] md:pt-16 lg:max-w-[934px] xl:max-w-[1190px] xl:pt-24 2xl:max-w-[1446px]">
           <div className='pt-4 sm:pt-2' >
-            <p className="text-[28px] text-center text-gray-800 font-bold leading-[32px] sm:text-left sm:text-[30px] sm:leading-[34px] md:text-[34px] md:leading-[38px] lg:text-[40px] lg:leading-[44px] xl:text-[56px] xl:leading-[60px] 2xl:text-[68px] 2xl:leading-[74px]">
+            <p className="text-[28px] text-center text-[#1D3444] font-bold leading-[32px] sm:text-left sm:text-[30px] sm:leading-[34px] md:text-[34px] md:leading-[38px] lg:text-[40px] lg:leading-[44px] xl:text-[56px] xl:leading-[60px] 2xl:text-[68px] 2xl:leading-[74px]">
               Prosper with our bespoke solutions
             </p>
             <p className="text-[14px] text-center text-gray-500 font-medium max-w-[270px] leading-[18px] pt-3 sm:text-left sm:text-[12px] sm:max-w-[240px] sm:leading-[16px] sm:pt-2 md:text-[14px] md:max-w-[270px] md:leading-[20px] md:pt-4 lg:text-[16px] lg:max-w-[340px] lg:pt-6 xl:text-[18px] xl:max-w-[480px] xl:pt-8 xl:leading-[28px] 2xl:text-[22px] 2xl:leading-[32px] 2xl:max-w-[620px]">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique
             </p>
             <div className="flex justify-center gap-2 pt-3 sm:justify-start sm:pt-2 sm:gap-2 md:pt-4 md:gap-4 lg:gap-5 lg:pt-6 xl:pt-8 xl:gap-8 2xl:gap-12 2xl:pt-11">
-              <p className="text-[11px]  cursor-pointer text-white font-semibold bg-orange-400 p-3 pl-3 pr-3 sm:pl-7 sm:pr-7 rounded-[30px] sm:text-[10px] sm:p-3 md:text-[12px] md:p-4 lg:text-[13px] lg:pl-4 lg:pr-4 xl:text-[15px] xl:pr-7 xl:pl-7 2xl:text-[18px] 2xl:pl-9 2xl:pr-9 2xl:p-5 2xl:rounded-full">
+              <p className="text-[11px]  cursor-pointer text-white font-semibold bg-[#F58A07] p-3 pl-3 pr-3 sm:pl-7 sm:pr-7 rounded-[30px] sm:text-[10px] sm:p-3 md:text-[12px] md:p-4 lg:text-[13px] lg:pl-4 lg:pr-4 xl:text-[15px] xl:pr-7 xl:pl-7 2xl:text-[18px] 2xl:pl-9 2xl:pr-9 2xl:p-5 2xl:rounded-full">
                 See Our Services
               </p>
               <p className="text-[11px]  cursor-pointer text-gray-800 font-semibold pt-[13px] sm:text-[12px] sm:pt-[11px] md:text-[13px] md:pt-[15px] lg:text-[14px] xl:text-[16px] xl:pt-[16px] 2xl:text-[18px] 2xl:pt-[21px]">
@@ -69,7 +69,7 @@ export default function Home() {
               <p className="text-[20px] font-semibold pt-2 md:text-[22px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Business strategy</p>
               <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[360px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[450px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
               <div className="flex">
-                <p className="text-[16px] font-semibold pt-4 text-orange-400 2xl:text-[20px] cursor-pointer">Learn More</p>
+                <p className="text-[16px] font-semibold pt-4 text-[#F58A07] 2xl:text-[20px] cursor-pointer">Learn More</p>
                 <div className="pt-6 pl-2 2xl:pt-7 2xl:pl-4">
                   <img className="w-[22px] h-[10px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                 </div>
@@ -80,7 +80,7 @@ export default function Home() {
               <p className="text-[20px] font-semibold pt-2 md:text-[22px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Digitalization</p>
               <p className="text-[12px] font-semibold pt-2 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[360px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[450px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
               <div className="flex">
-                <p className="text-[16px] font-semibold pt-4 text-orange-400 2xl:text-[20px] cursor-pointer">Learn More</p>
+                <p className="text-[16px] font-semibold pt-4 text-[#F58A07] 2xl:text-[20px] cursor-pointer">Learn More</p>
                 <div className="pt-6 pl-2 2xl:pt-7 2xl:pl-4">
                   <img className="w-[22px] h-[10px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                 </div>
@@ -91,7 +91,7 @@ export default function Home() {
               <p className="text-[20px] font-semibold pt-2 md:text-[22px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Risk assessment</p>
               <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[360px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[450px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
               <div className="flex">
-                <p className="text-[16px] font-semibold pt-4 text-orange-400 2xl:text-[20px] cursor-pointer">Learn More</p>
+                <p className="text-[16px] font-semibold pt-4 text-[#F58A07] 2xl:text-[20px] cursor-pointer">Learn More</p>
                 <div className="pt-6 pl-2 2xl:pt-7 2xl:pl-4">
                   <img className="w-[22px] h-[10px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                 </div>
@@ -132,7 +132,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-8 md:flex md:flex-row-reverse lg:max-w-[934px] xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-10 lg:justify-between">
+      <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-8 md:flex md:flex-row-reverse lg:max-w-[934px] xl:pt-24 xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-20 lg:justify-between">
         <div className="flex justify-center md:justify-start">
           <img className="w-[265px] h-[260px] sm:w-[320px] sm:h-[315px] md:w-[420px] md:h-[365px] xl:w-[580px] xl:h-[560px] 2xl:w-[710px] 2xl:h-[690px] " src="images/section5-girl-image.png" />
         </div>
@@ -141,25 +141,25 @@ export default function Home() {
           <p className="text-[14px] font-semibold leading-[18px] max-w-[270px] text-gray-600 pt-4 sm:text-[16px] sm:leading-[20px] sm:max-w-[400px] sm:text-center sm:m-auto sm:pt-6 md:text-start md:m-0 md:max-w-[340px] md:pt-3 lg:max-w-[490px] lg:pt-8 xl:text-[18px] xl:leading-[22px] xl:text-gray-500 2xl:text-[24px] 2xl:leading-[28px] 2xl:max-w-[600px] 2xl:pt-12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque.</p>
           <div className="sm:flex sm:justify-center sm:pt-4 md:justify-start lg:justify-between">
             <div>
-              <p className="text-[20px] font-extrabold text-orange-500 pt-3 sm:text-center md:text-start md:pt-0 lg:pt-4 xl:text-[36px] xl:pt-5 2xl:text-[48px]">15+</p>
+              <p className="text-[20px] font-extrabold text-[#F58A07] pt-3 sm:text-center md:text-start md:pt-0 lg:pt-4 xl:text-[36px] xl:pt-5 2xl:text-[48px]">15+</p>
               <p className="text-[18px] font-bold pt-1 sm:text-center md:text-start xl:text-[22px] 2xl:text-[26px]">Awards received</p>
-              <p className="text-[14px] font-semibold text-gray-600 pt-1 sm:max-w-[180px] sm:text-center md:text-start lg:max-w-[230px] 2xl:text-[18px] 2xl:max-w-[300px]">Lorem ipsum dolor sit amet, consectetur adipiscin. Curabitur sit amet eros elit et.</p>
+              <p className="text-[14px] font-semibold text-gray-500 pt-1 sm:max-w-[180px] sm:text-center md:text-start lg:max-w-[230px] xl:pt-3 xl:text-[16px] xl:max-w-[260px] xl:leading-[24px] 2xl:text-[18px] 2xl:max-w-[300px]">Lorem ipsum dolor sit amet, consectetur adipiscin. Curabitur sit amet eros elit et.</p>
             </div>
             <div>
-              <p className="text-[20px] font-extrabold text-orange-500 pt-3 sm:text-center md:text-start md:pt-0 lg:pt-4 xl:text-[36px] 2xl:text-[48px]">500+</p>
+              <p className="text-[20px] font-extrabold text-[#F58A07] pt-3 sm:text-center md:text-start md:pt-0 lg:pt-4 xl:text-[36px] 2xl:text-[48px]">500+</p>
               <p className="text-[18px] font-bold pt-1 sm:text-center md:text-start xl:text-[22px] 2xl:text-[26px]">Clients served</p>
-              <p className="text-[14px] font-semibold text-gray-600 pt-1 sm:max-w-[180px] sm:text-center md:text-start  lg:max-w-[230px] 2xl:text-[18px] 2xl:max-w-[300px]">Lorem ipsum dolor sit amet, consectetur adipiscin. Curabitur sit amet eros elit et.</p>
+              <p className="text-[14px] font-semibold text-gray-500 pt-1 sm:max-w-[180px] sm:text-center md:text-start  lg:max-w-[230px]   xl:pt-3 xl:text-[16px] xl:max-w-[260px] xl:leading-[24px] 2xl:text-[18px] 2xl:max-w-[300px]">Lorem ipsum dolor sit amet, consectetur adipiscin. Curabitur sit amet eros elit et.</p>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="pt-12 lg:max-w-[934px] lg:m-auto lg:pt-16 xl:max-w-[1190px] 2xl:max-w-[1446px]">
+      <div className="pt-12 lg:max-w-[934px] lg:m-auto lg:pt-16 xl:pt-24 xl:max-w-[1190px] 2xl:max-w-[1446px]">
         <div className="bg-[#EDF7FF] pb-10 lg:rounded-xl">
           <div className="max-w-[270px] m-auto pt-12 sm:max-w-[550px] md:max-w-[700px] lg:max-w-[830px] lg:pt-10 xl:max-w-[1094px] xl:pt-14 2xl:max-w-[1350px]">
             <div className="hidden lg:block lg:flex lg:gap-8">
-              <div className="bg-orange-50 lg:rounded-full lg:p-1 lg:pl-3 lg:pr-3 xl:p-2 xl:pl-5 xl:pr-5">
-                <p className="text-orange-400 text-[12px] font-bold xl:text-[16px] cursor-pointer">Business strategy</p>
+              <div className="bg-white lg:rounded-full lg:p-1 lg:pl-3 lg:pr-3 xl:p-2 xl:pl-5 xl:pr-5">
+                <p className="text-[#F58A07] text-[12px] font-bold xl:text-[16px] cursor-pointer">Business strategy</p>
               </div>
               <div className="">
                 <p className=" text-[12px] font-bold text-gray-400 lg:border lg:border-gray-400 lg:rounded-full lg:p-1 lg:pl-3 lg:pr-3  xl:p-2 xl:pl-5 xl:pr-5 xl:text-[16px] cursor-pointer">Digitalization</p>
@@ -179,7 +179,7 @@ export default function Home() {
                   <p className="text-[13px] font-semibold text-gray-600 leading-[17px] pt-3 sm:text-[14px] sm:leading-[20px] sm:max-w-[400px] sm:text-center sm:m-auto sm:pt-3 md:text-start md:m-0 md:max-w-[340px] md:pt-4 md:text-[16px] xl:text-[18px] xl:leading-[24px] xl:max-w-[540px] xl:pt-8  2xl:text-[24px] 2xl:leading-[28px] 2xl:max-w-[660px]">Mattis purus. Vivamus commodo suscipit tellus et pellent. Curabitur sit amet eros blan esque. </p>
                 </div>
                 <div className="flex gap-2 sm:justify-center sm:pt-4 md:justify-start md:pt-3 xl:pt-8 xl:gap-3 2xl:gap-4 2xl:pt-12">
-                  <p className="text-[13px] font-semibold text-orange-400 leading-[17px] pt-3  md:text-[16px] xl:text-[18px] 2xl:text-[24px] cursor-pointer">See all services</p>
+                  <p className="text-[13px] font-semibold text-[#F58A07] leading-[17px] pt-3  md:text-[16px] xl:text-[18px] 2xl:text-[24px] cursor-pointer">See all services</p>
                   <div className="pt-[18px] 2xl:pt-[16px]">
                     <img className="w-[18px] h-[8px] md:w-[20px] md:h-[9px] xl:w-[22px] xl:h-[10px]  2xl:w-[30px] 2xl:h-[15px] " src="images/arow.png" />
                   </div>
@@ -212,7 +212,7 @@ export default function Home() {
       </div>
 
 
-      <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-8 md:flex md:flex-row-reverse lg:max-w-[934px] xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-10 lg:justify-between xl:pt-24">
+      <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-8 md:flex md:flex-row-reverse lg:max-w-[934px]  xl:pt-32 xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-10 lg:justify-between">
         <div className="flex justify-center md:justify-start">
           <img className="w-[265px] h-[260px] sm:w-[320px] sm:h-[315px] md:w-[420px] md:h-[310px] lg:w-[490px] lg:h-[370px] xl:w-[580px] xl:h-[470px] 2xl:w-[710px] 2xl:h-[630px] " src="images/section7-img.png" />
         </div>
@@ -226,7 +226,7 @@ export default function Home() {
               </div>
               <div className="pt-[6px] pl-2 lg:pt-[10px] xl:pl-5 2xl:pt-[18px] 2xl:pl-6">
                 <p className="font-bold text-[14px] xl:text-[18px] 2xl:text-[22px] cursor-pointer">Chikelu Neo</p>
-                <p className="text-orange-400 font-semibold text-[14px] xl:text-[18px] 2xl:text-[22px] cursor-pointer">CEO at MazeAI</p>
+                <p className="text-[#F58A07] font-semibold text-[14px] xl:text-[18px] 2xl:text-[22px] cursor-pointer">CEO at MazeAI</p>
               </div>
             </div >
           </div>
@@ -234,18 +234,18 @@ export default function Home() {
       </div>
 
 
-      <div className="pt-10 md:pt-16 lg:pt-20 xl:pt-24 2xl:pt-36">
+      <div className="pt-10 md:pt-16 lg:pt-20 xl:pt-32 2xl:pt-36">
         <div className="bg-[#DCEAF5]">
           <div className="max-w-[270px] m-auto pt-6  sm:max-w-[550px] sm:pt-14 md:max-w-[700px] md:pt-16 lg:max-w-[934px] lg:pt-20 xl:pt-24 xl:max-w-[1190px] 2xl:pt-32 2xl:max-w-[1446px]">
             <p className="text-[22px] text-gray-800 font-bold leading-[30px]   sm:text-[31px] sm:max-w-[440px] sm:leading-[35px]  md:text-[40px] md:max-w-[580px] md:leading-[44px] lg:text-[42px] lg:leading-[46px] xl:text-[46px] lg:max-w-[680px] 2xl:text-[56px] 2xl:max-w-[750px] 2xl:leading-[60px]">Latest Blog & News</p>
-            <div className="grid grid-cols-1 gap-7 pt-[25px]  pb-10 xl:pb-16 2xl:pb-24 sm:grid-cols-2 sm:pt-[36px] lg:grid-cols-3 lg:gap-5 lg:pt-[42px] xl:gap-5 xl:pt-[60px] 2xl:grid-cols-3 2xl:gap-10 2xl:pt-[70px]">
+            <div className="grid grid-cols-1 gap-7 pt-[25px]  pb-10 xl:pb-16 2xl:pb-24 sm:grid-cols-2 sm:pt-[36px] lg:grid-cols-3 lg:gap-5 lg:pt-[42px] xl:gap-10 xl:pt-[60px] 2xl:grid-cols-3 2xl:gap-10 2xl:pt-[70px]">
               <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 2xl:pb-8">
                 <img className="h-[160px] md:h-[180px] md:w-[350px] xl:w-[400px] 2xl:w-[455px] 2xl:h-[210px]" src="images/setion8-img1.png" />
-                <div className="max-w-[230px] m-auto md:max-w-[280px]  xl:max-w-[340px] 2xl:max-w-[400px]">
-                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Why you have to digitalize in 2021</p>
-                  <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[17px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
+                <div className="max-w-[230px] m-auto md:max-w-[280px]  xl:max-w-[310px] 2xl:max-w-[400px]">
+                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[22px] xl:pt-7 2xl:text-[30px] 2xl:pt-6">Why you have to digitalize in 2021</p>
+                  <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
                   <div className="flex">
-                    <p className="text-[12px] font-semibold pt-4 text-orange-400 xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
+                    <p className="text-[12px] font-semibold pt-4 text-[#F58A07] xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
                     <div className="pt-[22px] pl-2 xl:pt-[24px] 2xl:pt-7 2xl:pl-4">
                       <img className="w-[18px] h-[8px] xl:h-[10px] xl:w-[22px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                     </div>
@@ -254,11 +254,11 @@ export default function Home() {
               </div>
               <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 2xl:pb-8">
                 <img className=" h-[160px]  md:h-[180px] md:w-[350px]  xl:w-[400px] 2xl:w-[455px] 2xl:h-[210px]" src="images/section8-img2.png" />
-                <div className="max-w-[230px] m-auto md:max-w-[280px]  xl:max-w-[340px] 2xl:max-w-[400px]">
-                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Our internal process and longerm vision</p>
-                  <p className="text-[12px] font-semibold pt-2 text-gray-600 md:text-[14px] md:pt-2 xl:text-[17px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
+                <div className="max-w-[230px] m-auto md:max-w-[280px]  xl:max-w-[310px] 2xl:max-w-[400px]">
+                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[22px] xl:pt-7 2xl:text-[30px] 2xl:pt-6">Our internal process and longerm vision</p>
+                  <p className="text-[12px] font-semibold pt-2 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
                   <div className="flex">
-                    <p className="text-[12px] font-semibold pt-4 text-orange-400 xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
+                    <p className="text-[12px] font-semibold pt-4 text-[#F58A07] xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
                     <div className="pt-[22px] pl-2 xl:pt-[24px] 2xl:pt-7 2xl:pl-4">
                       <img className="w-[18px] h-[8px] xl:h-[10px] xl:w-[22px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                     </div>
@@ -266,13 +266,13 @@ export default function Home() {
                 </div>
 
               </div>
-              <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 2xl:pb-8">
+              <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 xl:pb-8">
                 <img className=" h-[160px]  md:h-[180px] md:w-[350px]  xl:w-[400px] 2xl:w-[455px] 2xl:h-[210px]" src="images/section8-img3.png" />
-                <div className="max-w-[230px] m-auto md:max-w-[280px] xl:max-w-[340px] 2xl:max-w-[410px]">
-                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[24px] xl:pt-5 2xl:text-[30px] 2xl:pt-6">Helping the next generation of leaders</p>
-                  <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[17px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
+                <div className="max-w-[230px] m-auto md:max-w-[280px] xl:max-w-[310px] 2xl:max-w-[410px]">
+                  <p className="text-[16px] font-semibold pt-2 md:text-[20px] md:pt-3 lg:pt-4 xl:text-[22px] xl:pt-7 2xl:text-[30px] 2xl:pt-6">Helping the next generation of leaders</p>
+                  <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] md:pt-2 xl:text-[15px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
                   <div className="flex">
-                    <p className="text-[12px] font-semibold pt-4 text-orange-400 xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
+                    <p className="text-[12px] font-semibold pt-4 text-[#F58A07] xl:text-[16px] 2xl:text-[20px] cursor-pointer">Learn More</p>
                     <div className="pt-[22px] pl-2 xl:pt-[24px] 2xl:pt-7 2xl:pl-4">
                       <img className="w-[18px] h-[8px] xl:h-[10px] xl:w-[22px] 2xl:w-[26px] 2xl:h-[11px]" src="images/arow.png" />
                     </div>
