@@ -9,14 +9,15 @@ export default function header() {
                 </div>
                 <div className='flex gap-10 sm:gap-2 md:gap-5 lg:gap-6 xl:gap-8 2xl:gap-10 '>
                     <div className=' cursor-pointer font-Roboto hidden font-semibold text-gray-600 sm:flex sm:pt-3 sm:text-[10px] sm:gap-3 md:text-[12px] lg:text-[13px] lg:gap-4 xl:text-[16px] xl:gap-6 xl:font-bold 2xl:gap-8 2xl:text-[18px] 2xl:pt-4'>
-                        <a href='http://localhost:3000/About'>About Us</a>
+                        <a href='/About'>About Us</a>
                         <p>Careers</p>
                         <p>Services</p>
                         <p>Blog</p>
                         <p>Contact us</p>
                     </div>
                     <div>
-                        <p className='font-bold text-[#F58A07] bg-[#F58A071A] p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>Clone Project</p>
+                        <a href='/About' className='font-bold text-[#F58A07] bg-[#F58A071A] p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>
+                            Clone Project</a>
                     </div>
                 </div>
             </header>
