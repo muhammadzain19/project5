@@ -15,9 +15,8 @@ export default function header() {
                         <p>Blog</p>
                         <p>Contact us</p>
                     </div>
-                    <div>
-                        <a href='/About' className='font-bold text-[#F58A07] bg-[#F58A071A] p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>
-                            Clone Project</a>
+                    <div className='pt-1 md:pt-[9px] xl:pt-3'>
+                        <a href='/About' className=' font-bold text-[#F58A07] bg-[#F58A071A] p-3 pl-3 pr-3  rounded-full text-[9px] sm:pl-3 sm:pr-3 md:text-[12px] md:p-3 md:pl-4 md:pr-4 lg:text-[13px] lg:pr-5 lg:pl-5 xl:text-[16px] xl:pr-7 xl:pl-7 2xl:text-[22px] 2xl:pl-9 2xl:pr-9 2xl:p-4 2xl:rounded-full cursor-pointer'>Clone Project</a>
                     </div>
                 </div>
             </header>
