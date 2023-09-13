@@ -225,7 +225,7 @@ export default function Home() {
             <p className="text-[22px] text-[#0D1317] font-bold leading-[30px]   sm:text-[31px] sm:max-w-[440px] sm:leading-[35px]  md:text-[40px] md:max-w-[580px] md:leading-[44px] lg:text-[42px] lg:leading-[46px] xl:text-[48px] lg:max-w-[680px] 2xl:text-[56px] 2xl:max-w-[750px] 2xl:leading-[60px]">Latest Blog & News</p>
             <div className="grid grid-cols-1 gap-7 pt-[25px]  pb-10 xl:pb-16 2xl:pb-24 sm:grid-cols-2 sm:pt-[36px] lg:grid-cols-3 lg:gap-5 lg:pt-[42px] xl:gap-10 xl:pt-[60px] 2xl:grid-cols-3 2xl:gap-10 2xl:pt-[70px]">
               <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 2xl:pb-8">
-                <img className="h-[150px]  md:h-[170px] md:w-[350px] xl:w-[400px] xl:h-[220px] 2xl:w-[455px] 2xl:h-[230px]" src="images/setion8-img1.png" />
+                <img className="h-[160px]  md:h-[170px] md:w-[350px] xl:w-[400px] xl:h-[220px] 2xl:w-[455px] 2xl:h-[230px]" src="images/setion8-img1.png" />
                 <div className="max-w-[230px] m-auto md:max-w-[280px] lg:max-w-[260px] xl:max-w-[310px] 2xl:max-w-[400px]">
                   <p className="text-[16px] font-semibold pt-3 md:text-[20px] lg:text-[18px] md:pt-5 lg:pt-4 xl:text-[22px] xl:pt-8 2xl:text-[29px] 2xl:pt-10 2xl:pt-6">Why you have to digitalize in 2021</p>
                   <p className="text-[12px] font-semibold pt-1 text-gray-600 md:text-[14px] lg:text-[13px] md:pt-2 xl:text-[15px] xl:leading-[25px] xl:max-w-[340px] xl:pt-4 2xl:text-[20px] 2xl:leading-[32px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
@@ -238,7 +238,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 2xl:pb-8">
-                <img className=" h-[150px]  md:h-[170px] md:w-[350px]  xl:h-[220px] xl:w-[400px] 2xl:w-[455px] 2xl:h-[230px]" src="images/section8-img2.png" />
+                <img className=" h-[160px]  md:h-[170px] md:w-[350px]  xl:h-[220px] xl:w-[400px] 2xl:w-[455px] 2xl:h-[230px]" src="images/section8-img2.png" />
                 <div className="max-w-[230px] m-auto md:max-w-[280px] lg:max-w-[260px]  xl:max-w-[310px] 2xl:max-w-[400px]">
                   <p className="text-[16px] font-semibold pt-3  md:text-[20px] lg:text-[18px] md:pt-5 lg:pt-4 xl:text-[22px] xl:pt-8 2xl:text-[29px] 2xl:pt-10 2xl:pt-6">Our internal process and longerm vision</p>
                   <p className="text-[12px] font-semibold pt-1 text-gray-600  md:text-[14px] lg:text-[13px] md:pt-2 xl:text-[15px] xl:max-w-[340px]  xl:leading-[25px] xl:pt-4 2xl:text-[20px]  2xl:leading-[32px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
@@ -249,10 +249,9 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-
               </div>
               <div className="bg-white 2xl:max-w-[482px] rounded-3xl pb-4 xl:pb-8">
-                <img className=" h-[150px]  md:h-[170px] md:w-[350px] xl:h-[220px] xl:w-[400px] 2xl:w-[455px] 2xl:h-[230px]" src="images/section8-img3.png" />
+                <img className=" h-[160px]  md:h-[170px] md:w-[350px] xl:h-[220px] xl:w-[400px] 2xl:w-[455px] 2xl:h-[230px]" src="images/section8-img3.png" />
                 <div className="max-w-[230px] m-auto md:max-w-[280px]  lg:max-w-[260px] xl:max-w-[310px] 2xl:max-w-[410px]">
                   <p className="text-[16px] font-semibold  md:text-[20px] pt-3 lg:text-[18px] md:pt-5 lg:pt-4 xl:text-[22px] xl:pt-8 2xl:pt-10 2xl:text-[29px] 2xl:pt-6">Helping the next generation of leaders</p>
                   <p className="text-[12px] font-semibold pt-1 text-gray-600  md:text-[14px] lg:text-[13px] md:pt-2 xl:text-[15px] xl:max-w-[340px]  xl:leading-[25px] xl:pt-4 2xl:text-[20px]  2xl:leading-[32px] 2xl:max-w-[430px] 2xl:pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </p>
