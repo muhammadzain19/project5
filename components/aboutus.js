@@ -63,9 +63,9 @@ export default function aboutus() {
             <div className='m-auto pt-10 max-w-[270px] sm:pt-14 sm:max-w-[550px] md:max-w-[700px] md:pt-20 lg:max-w-[934px] lg:pt-24 xl:max-w-[1190px]  xl:pt-28 2xl:max-w-[1446px] 2xl:pt-36'>
                 <div className='md:flex md:flex-row-reverse justify-between '>
                     <div className='sm:max-w-[350px] sm:m-auto md:m-0 md:max-w-[350px] lg:max-w-[460px] xl:max-w-[590px] 2xl:max-w-[715px]'>
-                        <div className='bg-[#F58A07] h-[200px]'>
+                        <div>
                             
-                            <img className='float-left mix-blend-multiply  max-w-full' src='images/twosection3-img.png' />
+                            <img className='max-w-full' src='images/twosection3-img.png' />
                         </div>
                     </div>
                     <div className=' md:pt-[73px] lg:pt-28 xl:pt-32 2xl:pt-40'>
