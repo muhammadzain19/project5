@@ -63,13 +63,29 @@ export default function aboutus() {
             <div className='m-auto pt-10 max-w-[270px] sm:pt-14 sm:max-w-[550px] md:max-w-[700px] md:pt-20 lg:max-w-[934px] lg:pt-24 xl:max-w-[1190px]  xl:pt-28 2xl:max-w-[1446px] 2xl:pt-36'>
                 <div className='md:flex md:flex-row-reverse justify-between '>
                     <div className='sm:max-w-[350px] sm:m-auto md:m-0 md:max-w-[350px] lg:max-w-[460px] xl:max-w-[590px] 2xl:max-w-[715px]'>
-                        <div>
-                            
+                        <div className='relative'>
+                        <svg className='right-[-13px] bottom-[-13px] w-[120px] h-[120px] sm:right-[-17px] sm:bottom-[-17px] sm:w-[140px] sm:h-[140px]   md:right-[-25px] md:bottom-[-25px] md:w-[170px] md:h-[170px] lg:right-[-32px] lg:bottom-[-32px] lg:w-[225px] lg:h-[225px] xl:right-[-40px] xl:bottom-[-40px] 2xl:bottom-[-50px] 2xl:right-[-50px]  xl:w-[290px] xl:h-[290px] 2xl:h-[340px] 2xl:w-[340px] absolute' xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 292 297" fill="none">
+      <g style={{mixBlendMode: 'multiply'}}   filter="url(#filter0_d_1_912)">
+        <path d="M4 20C4 8.95431 12.9543 0 24 0H268C279.046 0 288 8.95431 288 20V269C288 280.046 279.046 289 268 289H24C12.9543 289 4 280.046 4 269V20Z" fill="#F58A07"/>
+      </g>
+      <defs>
+        <filter id="filter0_d_1_912" x="0" y="0" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+          <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+          <feOffset dy="4"/>
+          <feGaussianBlur stdDeviation="2"/>
+          <feComposite in2="hardAlpha" operator="out"/>
+          <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+          <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_912"/>
+          <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_912" result="shape"/>
+        </filter>
+      </defs>
+    </svg>
                             <img className='max-w-full' src='images/twosection3-img.png' />
                         </div>
                     </div>
                     <div className=' md:pt-[73px] lg:pt-28 xl:pt-32 2xl:pt-40'>
-                        <p className="text-[20px] font-bold leading-[22px] pt-3 sm:text-[26px] sm:max-w-[700px] sm:m-auto sm:text-center sm:leading-[30px] sm:pt-4 md:text-start md:m-0 md:text-[25px] md:max-w-[320px] md:pt-0 lg:text-[33px] lg:max-w-[420px] lg:leading-[38px] xl:text-[44px] xl:leading-[50px] xl:max-w-[620px] 2xl:text-[52px] 2xl:leading-[62px] 2xl:max-w-[670px]">
+                        <p className="text-[20px] font-bold leading-[22px] pt-4 sm:text-[26px] sm:max-w-[700px] sm:m-auto sm:text-center sm:leading-[30px] sm:pt-5 md:text-start md:m-0 md:text-[25px] md:max-w-[320px] md:pt-0 lg:text-[33px] lg:max-w-[420px] lg:leading-[38px] xl:text-[44px] xl:leading-[50px] xl:max-w-[620px] 2xl:text-[52px] 2xl:leading-[62px] 2xl:max-w-[670px]">
                             We want to get local identification in every corner of the world in this era of global citizenship.</p>
                         <p className="text-[13px] font-semibold text-gray-500 leading-[17px] pt-4 sm:text-[14px] sm:leading-[20px] sm:max-w-[700px] sm:text-center sm:m-auto sm:pt-4 md:text-start md:m-0 md:max-w-[300px] md:pt-3 md:text-[11px] lg:max-w-[350px] lg:pt-5 lg:leading-[24px] xl:text-[17px] xl:leading-[30px] xl:max-w-[460px] xl:pt-8  2xl:text-[20px] 2xl:leading-[32px] 2xl:max-w-[540px]">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, mattis purus. Vivamus commodo suscipit tellus et pellentesque.</p>
