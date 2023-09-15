@@ -145,7 +145,7 @@ export default function Home() {
 
       <div className="pt-12 md:max-w-[700px] lg:max-w-[934px] md:m-auto lg:pt-16 xl:pt-28 xl:max-w-[1190px] 2xl:pt-28 2xl:max-w-[1446px]">
         <div className="bg-[#EDF7FF] relative pb-10 xl:pb-14 md:rounded-xl">
-          <img className="absolute sm:hidden md:block md:w-[120px] md:top-[-10px] md:right-[-10px] xl:w-[180px] xl:right-[-15px] xl:top-[-15px]" src="images/Ribbon.png"/>
+          <img className="md:absolute hidden md:block md:w-[120px] md:top-[-10px] md:right-[-10px] xl:w-[180px] xl:right-[-15px] xl:top-[-15px]" src="images/Ribbon.png"/>
           <div className="max-w-[270px] m-auto pt-12 sm:max-w-[550px] md:max-w-[604px] lg:max-w-[830px] lg:pt-10 xl:max-w-[1094px] xl:pt-14 2xl:max-w-[1350px]">
             <div className="hidden md:block md:flex md:gap-3 lg:gap-8">
               <div className="bg-white md:rounded-full md:p-1 lg:p-2 md:pl-3 md:pr-3 lg:pl-3 lg:pr-3 xl:p-2 xl:pl-5 xl:pr-5">
