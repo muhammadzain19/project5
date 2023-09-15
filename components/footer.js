@@ -1,8 +1,10 @@
 import React from 'react'
 export default function Home() {
     return (
-        <div className='bg-[#063255]'>
+        <div className='relative bg-[#063255]'>
             <div className='max-w-[270px] m-auto sm:max-w-[550px] md:max-w-[700px] lg:max-w-[934px] lg:grid lg:grid-cols-3 lg:pt-8 xl:max-w-[1190px] xl:pt-20 2xl:max-w-[1446px]'>
+               <img className='absolute left-0 bottom-0 w-[49px] sm:w-[59px] lg:w-[39px] xl:w-[49px] 2xl:w-[59px]' src='images/Shape-Left.png'/>
+               <img className='absolute right-0  pt-48 w-[43px] sm:w-[53px] lg:pt-0 lg:w-[36px] xl:w-[43px] 2xl:w-[53px]' src='images/Shape Right.png'/>
                 <div className='pt-8 sm:pt-12 lg:pt-0'>
                     <div className='w-[100px] sm:w-[130px] lg:w-[100px] 2xl:w-[130px]'>
                         <img className='w-full' src='images/white-finswheet.png' />

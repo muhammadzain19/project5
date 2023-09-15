@@ -5,7 +5,7 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <div>
-       <Header/>
+      <Header />
       <div className='bg-image bg-[#DCEAF5] pb-4 sm:pb-0'>
         <div className="flex flex-col-reverse pt-5 max-w-[270px] m-auto sm:flex-row sm:max-w-[550px] sm:pt-10 md:max-w-[700px] md:pt-16 lg:max-w-[934px] xl:max-w-[1190px] xl:pt-24 2xl:pt-28 2xl:max-w-[1446px]">
           <div className='pt-4 sm:pt-2' >
@@ -39,7 +39,7 @@ export default function Home() {
             </div>
           </div>
           <div>
-            <img className="w-[400px] h-[190px] sm:w-[540px] sm:h-[260px] md:w-[700px] md:h-[340px] lg:w-[900px] lg:h-[400px] xl:w-[1200px] xl:h-[460px] 2xl:w-[1600px] 2xl:h-[570px]" src="images/menmen-img.png" />
+            <img className="w-[400px] h-[190px] sm:w-[540px] sm:h-[280px] md:w-[700px] md:h-[370px] lg:w-[900px] lg:h-[440px] xl:w-[1200px] xl:h-[530px] 2xl:w-[1600px] 2xl:h-[650px]" src="images/jjkdghkk.png" />
           </div>
         </div>
       </div>
@@ -116,10 +116,14 @@ export default function Home() {
           </div>
         </div>
       </div>
-
-      <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-10 md:pt-12 md:flex md:flex-row-reverse md:justify-between lg:max-w-[934px] xl:pt-24 xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-20 lg:justify-between">
-        <div className="flex justify-center md:justify-start">
+ 
+      <div className="m-auto max-w-[270px] pt-12 sm:max-w-[550px] md:max-w-[700px] sm:pt-14 md:pt-16 md:flex md:flex-row-reverse md:justify-between lg:pt-24 lg:max-w-[934px] xl:pt-32 xl:max-w-[1190px] 2xl:max-w-[1446px] lg:justify-between">
+        <div className=" flex justify-center md:justify-start"> 
+        <div className="relative">
+          <img className="absolute w-[55px] top-[-27px] right-[-27px] sm:w-[75px] sm:top-[-37px] sm:right-[-37px]  md:w-[90px] md:right-[-44px] md:top-[-44px] lg:right-[-62px] lg:top-[-62px] lg:w-[126px]" src="images/twosection1-circle.png"/>
           <img className="w-[265px] h-[260px] sm:w-[320px] sm:h-[315px] md:w-[360px] md:h-[395px] lg:h-[480px] lg:w-[460px] xl:w-[580px] xl:h-[600px] 2xl:w-[710px] 2xl:h-[730px] " src="images/section5-girl-image.png" />
+          </div>
+          
         </div>
         <div>
           <p className="text-[20px] font-bold leading-[24px] max-w-[250px] pt-4 sm:text-[26px] sm:max-w-[450px] sm:m-auto sm:text-center sm:leading-[30px] sm:pt-6 md:text-start md:m-0 md:text-[24px] md:max-w-[300px] md:pt-5 lg:text-[32px] lg:max-w-[400px] lg:leading-[36px] lg:pt-10 xl:text-[46px] xl:leading-[50px] xl:max-w-[550px] xl:pt-14 2xl:pt-16 2xl:text-[56px] 2xl:leading-[60px] 2xl:max-w-[700px]">The energy of a start-up combined with 30 years of experience.</p>
@@ -139,8 +143,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="pt-12 md:max-w-[700px] lg:max-w-[934px] md:m-auto lg:pt-16 xl:pt-24 xl:max-w-[1190px] 2xl:pt-28 2xl:max-w-[1446px]">
-        <div className="bg-[#EDF7FF] pb-10 xl:pb-14 md:rounded-xl">
+      <div className="pt-12 md:max-w-[700px] lg:max-w-[934px] md:m-auto lg:pt-16 xl:pt-28 xl:max-w-[1190px] 2xl:pt-28 2xl:max-w-[1446px]">
+        <div className="bg-[#EDF7FF] relative pb-10 xl:pb-14 md:rounded-xl">
+          <img className="absolute sm:hidden md:block md:w-[120px] md:top-[-10px] md:right-[-10px] xl:w-[180px] xl:right-[-15px] xl:top-[-15px]" src="images/Ribbon.png"/>
           <div className="max-w-[270px] m-auto pt-12 sm:max-w-[550px] md:max-w-[604px] lg:max-w-[830px] lg:pt-10 xl:max-w-[1094px] xl:pt-14 2xl:max-w-[1350px]">
             <div className="hidden md:block md:flex md:gap-3 lg:gap-8">
               <div className="bg-white md:rounded-full md:p-1 lg:p-2 md:pl-3 md:pr-3 lg:pl-3 lg:pr-3 xl:p-2 xl:pl-5 xl:pr-5">
@@ -155,7 +160,7 @@ export default function Home() {
             </div>
             <div className="md:flex md:flex-row-reverse md:pt-10 lg:pt-12 md:justify-between xl:justify-between xl:pt-20">
               <div className="sm:max-w-[320px] md:max-w-[290px] lg:max-w-[355px] xl:max-w-[460px] sm:m-auto md:m-0 2xl:max-w-[560px]">
-                <img className="w-full" src="images/section4-img-group.png" />
+                <img className="w-full" src="images/Service-image.png" />
               </div>
               <div className="pt-5 md:pt-0">
                 <div>
@@ -199,7 +204,7 @@ export default function Home() {
 
       <div className="m-auto max-w-[270px] pt-6 sm:max-w-[550px] md:max-w-[700px] sm:pt-8 md:pt-14 lg:pt-20 md:flex md:flex-row-reverse lg:max-w-[934px]  xl:pt-32 xl:max-w-[1190px] 2xl:max-w-[1446px] lg:pt-10 lg:justify-between">
         <div className="flex justify-center md:justify-start">
-          <img className="w-[265px] h-[260px] sm:w-[320px] sm:h-[315px] md:w-[390px] md:h-[300px] lg:w-[490px] lg:h-[370px] xl:w-[580px] xl:h-[470px] 2xl:w-[710px] 2xl:h-[630px] " src="images/section7-img.png" />
+          <img className="w-[265px] h-[260px] sm:w-[320px] sm:h-[315px] md:w-[390px] md:h-[300px] lg:w-[490px] lg:h-[370px] xl:w-[580px] xl:h-[470px] 2xl:w-[710px] 2xl:h-[630px] " src="images/imgimgimg.png" />
         </div>
         <div className="md:pt-8 lg:pt-10 xl:pt-16 2xl:pt-24">
           <p className="text-[20px] font-bold leading-[24px] max-w-[270px] pt-4 sm:text-[26px] sm:max-w-[450px] sm:m-auto sm:text-center sm:leading-[30px] sm:pt-6 md:text-start md:m-0 md:text-[28px] md:leading-[32px] md:max-w-[380px] md:pt-0 lg:text-[38px] lg:leading-[42px] lg:max-w-[500px] lg:pt-2 xl:text-[46px] xl:leading-[52px] xl:max-w-[550px] 2xl:text-[58px] 2xl:leading-[62px] 2xl:max-w-[700px]">Finsweet Was A Dream To Work With</p>
